@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TranslateAPI.iml" filepath="$PROJECT_DIR$/.idea/modules/TranslateAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TranslateAPI.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TranslateAPI.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/translateapi/TranslateAPI.translateapi.iml" filepath="$PROJECT_DIR$/.idea/modules/translateapi/TranslateAPI.translateapi.iml" />
+    </modules>
+  </component>
+</project>
