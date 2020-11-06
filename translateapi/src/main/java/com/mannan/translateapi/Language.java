@@ -31,6 +31,11 @@ public class Language {
         public static final String GERMAN = "de";
         public static final String GREEK = "el";
         public static final String GUJARATI = "gu";
+        public static final String PUNJABI = "pa";
+        public static final String MARATHI = "mr";
+        public static final String ORIYA = "or";
+        public static final String NEPALI = "ne";
+        public static final String SINDHI = "ne";
         public static final String HAITIAN_CREOLE = "ht";
         public static final String HEBREW = "iw";
         public static final String HINDI = "hi";
@@ -47,6 +52,7 @@ public class Language {
         public static final String LITHUANIAN = "lt";
         public static final String MACEDONIAN = "mk";
         public static final String MALAY = "ms";
+        public static final String MALAYALAM = "ml";
         public static final String MALTESE = "mt";
         public static final String NORWEGIAN = "no";
         public static final String PERSIAN = "fa";
